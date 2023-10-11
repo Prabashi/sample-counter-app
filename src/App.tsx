@@ -13,7 +13,7 @@ function App() {
       >
         Add 1
       </button>
-      <h2 data-testid="count-text">Count is {count}</h2>
+      <h2 data-testid="count-text">Count: {count}</h2>
     </div>
   );
 }
